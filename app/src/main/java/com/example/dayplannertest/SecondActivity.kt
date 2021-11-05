@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
 import com.example.dayplannertest.databinding.ActivitySecondBinding
+import kotlinx.serialization.*
+import kotlinx.serialization.json.*
 
 class SecondActivity : AppCompatActivity() {
 

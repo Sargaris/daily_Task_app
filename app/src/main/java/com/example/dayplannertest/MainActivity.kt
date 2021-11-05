@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import com.example.dayplannertest.databinding.ActivityMainBinding
 
+
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
